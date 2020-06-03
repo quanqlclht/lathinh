@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1591189663 source:e:\mygame\lathinh\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<string>
+	<iostream>
+
